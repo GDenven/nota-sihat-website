@@ -21,6 +21,18 @@ body {
     padding-top: 40px;
 }
 
+#kawalan-vektor {
+    background-image: url(images/kawalan-vektor-img.png);
+    background-size: cover;
+    margin-top: 0%;
+    padding-top: 40px;
+}
+
+.inactive-link {
+    pointer-events: none;
+    cursor: default;
+}
+
 .navbar {
     background-color: #1F2544;
     color: azure;
@@ -48,6 +60,10 @@ body {
     display: flex;
     justify-content: center;
     gap: 40px;
+}
+
+a:link {
+    text-decoration: none;
 }
 
 .footer {
