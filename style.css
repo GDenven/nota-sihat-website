@@ -66,6 +66,10 @@ a:link {
     text-decoration: none;
 }
 
+.page-main-pic {
+    border-radius: 1%;
+}
+
 .footer {
     display: flex;
     justify-content: center;
