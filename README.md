@@ -8,16 +8,16 @@
   &emsp;• Koleksi Nota Kesihatan Tersusun: Menyediakan nota ringkas mengenai cara – cara pencegahan pelbagai penyakit berjangkit dan tidak berjangkit yang sesuai untuk semua lapisan masyarakat.
   &emsp;• Reka Bentuk Responsif (Responsive Design): Antara muka yang dioptimumkan sepenuhnya untuk pelbagai saiz skrin, sama ada telefon pintar, tablet, atau komputer.
 
-🛠️ Teknologi yang Digunakan (Tech Stack)
-  &emsp;Projek ini dibangunkan menggunakan teknologi web moden yang ringan dan pantas:
-  &emsp;• Frontend:
-    &emsp;o HTML5 (Struktur halaman)
-    &emsp;o CSS3 / Tailwind CSS/ Bootstrap Library (Gaya dan reka bentuk visual)
-    &emsp;o JavaScript (Interaksi halaman)
-  &emsp;• Kawalan Versi (Version Control):
-    &emsp;o Git & GitHub (Penyimpanan kod sumber dan pengurusan projek)
-  &emsp;• Penyaluran & Pengehosan (Hosting & Deployment):
-    &emsp;o Vercel (Pautan automatik dari GitHub untuk live preview dan produksi)
+🛠️ Teknologi yang Digunakan (Tech Stack) <br />
+  &emsp;Projek ini dibangunkan menggunakan teknologi web moden yang ringan dan pantas: <br />
+  &emsp;• Frontend: <br />
+    &emsp;o HTML5 (Struktur halaman) <br />
+    &emsp;o CSS3 / Tailwind CSS/ Bootstrap Library (Gaya dan reka bentuk visual) <br />
+    &emsp;o JavaScript (Interaksi halaman) <br />
+  &emsp;• Kawalan Versi (Version Control): <br />
+    &emsp;o Git & GitHub (Penyimpanan kod sumber dan pengurusan projek) <br />
+  &emsp;• Penyaluran & Pengehosan (Hosting & Deployment): <br />
+    &emsp;o Vercel (Pautan automatik dari GitHub untuk live preview dan produksi) <br />
 
 🚀 Pautan Pantas
   Anda boleh layari versi langsung website ini di pautan berikut:
