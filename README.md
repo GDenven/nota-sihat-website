@@ -1,6 +1,6 @@
-📝 Tajuk dan Penerangan Projek
-  • Nama Projek: Laman Web Nota Sihat.
-  • Penerangan Ringkas: Nota Sihat ialah sebuah platform web interaktif yang menyediakan nota ringkas dan mudah difahami oleh semua lapisan masyarakat. Laman web ini memberi fokus kepada panduan praktikal mengenai cara-cara     pencegahan pelbagai jenis penyakit berjangkit dan tidak berjangkit. Matlamat utama adalah untuk meningkatkan kesedaran kesihatan awam, memupuk gaya hidup sihat, serta memastikan maklumat pencegahan yang betul dapat          diakses oleh setiap individu demi kesejahteraan bersama.
+📝 Tajuk dan Penerangan Projek <br />
+__• Nama Projek: Laman Web Nota Sihat.
+__• Penerangan Ringkas: Nota Sihat ialah sebuah platform web interaktif yang menyediakan nota ringkas dan mudah difahami oleh semua lapisan masyarakat. Laman web ini memberi fokus kepada panduan praktikal mengenai cara-cara     pencegahan pelbagai jenis penyakit berjangkit dan tidak berjangkit. Matlamat utama adalah untuk meningkatkan kesedaran kesihatan awam, memupuk gaya hidup sihat, serta memastikan maklumat pencegahan yang betul dapat          diakses oleh setiap individu demi kesejahteraan bersama.
 
 ✨ Ciri-ciri Utama (Features)
   • Koleksi Nota Kesihatan Tersusun: Menyediakan nota ringkas mengenai cara – cara pencegahan pelbagai penyakit berjangkit dan tidak berjangkit yang sesuai untuk semua lapisan masyarakat.
