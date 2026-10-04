@@ -5,19 +5,19 @@
     kesihatan awam, memupuk gaya hidup sihat, serta memastikan maklumat pencegahan yang betul dapat diakses oleh setiap individu demi kesejahteraan bersama. <br />
 
 ✨ Ciri-ciri Utama (Features)
-  • Koleksi Nota Kesihatan Tersusun: Menyediakan nota ringkas mengenai cara – cara pencegahan pelbagai penyakit berjangkit dan tidak berjangkit yang sesuai untuk semua lapisan masyarakat.
-  • Reka Bentuk Responsif (Responsive Design): Antara muka yang dioptimumkan sepenuhnya untuk pelbagai saiz skrin, sama ada telefon pintar, tablet, atau komputer.
+  &emsp;• Koleksi Nota Kesihatan Tersusun: Menyediakan nota ringkas mengenai cara – cara pencegahan pelbagai penyakit berjangkit dan tidak berjangkit yang sesuai untuk semua lapisan masyarakat.
+  &emsp;• Reka Bentuk Responsif (Responsive Design): Antara muka yang dioptimumkan sepenuhnya untuk pelbagai saiz skrin, sama ada telefon pintar, tablet, atau komputer.
 
 🛠️ Teknologi yang Digunakan (Tech Stack)
-  Projek ini dibangunkan menggunakan teknologi web moden yang ringan dan pantas:
-  • Frontend:
-    o HTML5 (Struktur halaman)
-    o CSS3 / Tailwind CSS/ Bootstrap Library (Gaya dan reka bentuk visual)
-    o JavaScript (Interaksi halaman)
-  • Kawalan Versi (Version Control):
-    o Git & GitHub (Penyimpanan kod sumber dan pengurusan projek)
-  • Penyaluran & Pengehosan (Hosting & Deployment):
-    o Vercel (Pautan automatik dari GitHub untuk live preview dan produksi)
+  &emsp;Projek ini dibangunkan menggunakan teknologi web moden yang ringan dan pantas:
+  &emsp;• Frontend:
+    &emsp;o HTML5 (Struktur halaman)
+    &emsp;o CSS3 / Tailwind CSS/ Bootstrap Library (Gaya dan reka bentuk visual)
+    &emsp;o JavaScript (Interaksi halaman)
+  &emsp;• Kawalan Versi (Version Control):
+    &emsp;o Git & GitHub (Penyimpanan kod sumber dan pengurusan projek)
+  &emsp;• Penyaluran & Pengehosan (Hosting & Deployment):
+    &emsp;o Vercel (Pautan automatik dari GitHub untuk live preview dan produksi)
 
 🚀 Pautan Pantas
   Anda boleh layari versi langsung website ini di pautan berikut:
